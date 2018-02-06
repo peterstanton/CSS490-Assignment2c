@@ -24,6 +24,9 @@ must be updated if you name the jar anything but Program2c-java8.jar.
 * Due to the fact that this is a console application, double-clicking the executable jar has no effect. The application must be run
 from the command-line, or double clicking the executable .bat in the same directory as the .jar.
 
+* Attempting to run the program with "java WeatherApp.class" as opposed to "java WeatherApp" results in an error:
+ "Error: Could not find or load main class WeatherApp.class"
+
 * JSON responses can very by location leading to all sorts of different responses that need handling, 
 some areas do not report weather data. This program cannot be responsible for omitted data in such cases.
 
