@@ -10,14 +10,14 @@ This program is a RESTful API based weather checking application.
 ## How-to use this code
 * Ensure you have a Java compiler, preferably Java 1.8.0_162, installed.
 * Navigate to the source code directory which contains WeatherApp.java
-* Compile the program with javac WeatherApp.java
-* Run the program with java WeatherApp
+* Compile the program with "javac WeatherApp.java"
+* Run the program with "java WeatherApp"
 
 * You can optionally compile your own executable jar by running this code in Eclipse, and going to File -> Export ->
 Export -> Runnable JAR File -> Launch Configuration: WeatherApp -> Library Handling: Package required libraries into generated JAR -> 
 select your desired output directory -> Finish.
 
-* You can then run the .jar by running "java -jar myWeather.jar" OR by double clicking the included executable.bat. Note that executable.bat
+* You can then run the .jar by running "java -jar Program2c-java8.jar" OR by double clicking the included executable.bat. Note that executable.bat
 must be updated if you name the jar anything but Program2c-java8.jar.
 
 ## Known bugs
